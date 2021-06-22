@@ -1,0 +1,40 @@
+nav{
+    border: 2px solid gray;
+    height: 50px ;
+    margin-top: 2%;
+    background-color: gray;
+}
+ul{
+    list-style-type: none;
+}
+ul li {
+    float: left; 
+    width: 10%;
+    text-align: center;
+    
+}
+li a{
+    display: block; 
+    text-decoration: none;
+    color: black;
+}
+li a:hover{
+    color: blueviolet;
+    border: 1px solid gold; 
+}
+.pEntreprise{
+    text-align: center;
+    font-weight: bold;
+    margin-top: auto;
+}
+.pStyle{
+    font-family: sans-serif;
+}
+.pStyle span{
+    font-style: italic;
+    font-weight: bold;
+}
+.principal{
+margin-left:5% ;
+margin-right: 5%;
+}
